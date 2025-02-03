@@ -1,0 +1,9 @@
+name: DynamicScriptLoader
+main: com.letcute.DynamicScriptLoader
+version: 1.0
+author: LetCute
+api-version: 1.13
+commands:
+  reloadscripts:
+    description: Reload and execute scripts in the scripts folder.
+    usage: /reloadscripts
