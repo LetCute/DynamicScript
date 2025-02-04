@@ -1,5 +1,0 @@
-# Created at 2025-02-03T21:02:11.991
-Boot Manifest-JAR contains absolute paths in classpath 'E:\project\plugin-minecraft\DynamicScriptLoader\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
